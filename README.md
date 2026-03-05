@@ -8,5 +8,5 @@ Preparing global layoffs data for exploratory data analysis (EDA)
 - Creating a reliable dataset for EDA
 
 ## Tools used
-- **MySql Workbench** - Primary data cleaning tool
+- **MySQL Workbench 8.0 CE** - Primary data cleaning tool
 - **Github** - Project sharing
